@@ -1,6 +1,6 @@
 # order_management
 
-URL_BASE = 'https://ordermanagement.up.railway.app'
+URL_BASE = https://ordermanagement.up.railway.app
 
 ---- CONSULTAR USUARIO ----
 GET usuários 
